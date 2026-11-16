@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1794854209,
+    "version": "23.2",
+    "type": "unofficial",
+    "files": [
+      {
+        "filename": "lineage-23.2-20261116-UNOFFICIAL-poplar.zip",
+        "sha256": "7fd991ee450e50cd6a77b3785dcdbc74e340a5e250800f6af278caaf1cd2284e",
+        "size": 1151332671,
+        "url": "https://github.com/sunplex07/lineageos-poplar-releases/releases/download/lineage-23.2-20261116/lineage-23.2-20261116-UNOFFICIAL-poplar.zip",
+        "os_sdk_level": 36,
+        "os_patch_level": "2026-08-01"
+      }
+    ]
+  }
+]
